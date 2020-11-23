@@ -1,0 +1,7 @@
+__title__ = 'aadoauthconsenter'
+__description__ = 'Web server for only consent Microsoft AAD OAuth.'
+__url__ = 'https://github.com/sengokyu/aad-oauth-consenter'
+__version__ = '0.0.1'
+__author__ = 'sengokyu'
+__license__ = 'MIT'
+__copyright__ = 'Copyright 2020 sengokyu'
